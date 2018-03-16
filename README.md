@@ -2,7 +2,7 @@
 
 Get Advocating is a collection of non-partisan, non-profit advocacy organizations.
 
-Its goal is to make it easier for Canadians to find organizations that promote and lobby for their values in society and government.
+Its goal is to make it easier for Canadians to find and support organizations that promote and lobby for their values in society and government.
 
 ## the list
 
